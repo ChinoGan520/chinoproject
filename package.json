@@ -1,0 +1,7 @@
+{
+  "name": "rabbit-house-flask-preview",
+  "private": true,
+  "scripts": {
+    "dev": "DEMO_MODE=true COOKIE_SECURE=false .venv/bin/python scripts/preview.py"
+  }
+}

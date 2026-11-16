@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="360" viewBox="0 0 600 360" role="img" aria-labelledby="t"><title id="t">午後咖啡聚會與兔子拉花</title>
+<defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#f0e2cf"/><stop offset="1" stop-color="#e2d0b7"/></linearGradient><radialGradient id="coffee"><stop stop-color="#c99b69"/><stop offset="1" stop-color="#94633f"/></radialGradient><filter id="s"><feDropShadow dx="0" dy="9" stdDeviation="7" flood-color="#6b503a" flood-opacity=".15"/></filter></defs>
+<rect width="600" height="360" fill="url(#b)"/>
+<path d="M0 80H600M0 174H600M0 268H600M147 0V80M438 80V174M230 174V268M457 268V360" stroke="#bda589" stroke-width="2" opacity=".2"/>
+<!-- linen and saucer -->
+<path d="M134 37L449 66L416 337L108 308Z" fill="#eeeee3" stroke="#f7f6e9" stroke-width="4"/>
+<path d="M149 48L432 75M123 294L403 323" stroke="#b4c9c9" stroke-width="3" stroke-dasharray="3 4"/>
+<g filter="url(#s)"><ellipse cx="293" cy="199" rx="123" ry="109" fill="#faf9ed" stroke="#c4cdc7" stroke-width="2"/><ellipse cx="293" cy="198" rx="109" ry="96" fill="none" stroke="#e0e6dd" stroke-width="2"/>
+<path d="M376 143Q422 135 425 173Q429 214 382 214L377 198Q406 197 407 175Q408 153 380 160Z" fill="#fdfbf0" stroke="#c9d4ce" stroke-width="2"/>
+<circle cx="291" cy="182" r="88" fill="#fffdf3" stroke="#c4cec7" stroke-width="2"/>
+<circle cx="291" cy="181" r="75" fill="url(#coffee)"/>
+<circle cx="291" cy="181" r="69" fill="none" stroke="#ddb784" stroke-width="2"/>
+<!-- foamy rabbit latte art -->
+<path d="M262 164Q234 123 252 119Q270 119 278 160M303 159Q312 118 329 124Q345 135 317 167" fill="#f7e8cb"/>
+<ellipse cx="288" cy="184" rx="43" ry="36" fill="#f7e8cb"/>
+<path d="M264 157Q251 134 255 128M315 158L326 133" fill="none" stroke="#d0ad7b" stroke-width="4" stroke-linecap="round"/>
+<circle cx="273" cy="180" r="3" fill="#ad7c4f"/><circle cx="307" cy="180" r="3" fill="#ad7c4f"/>
+<path d="M285 190L290 194L295 190M290 194Q284 200 280 196M290 194Q295 200 300 196" fill="none" stroke="#ad7c4f" stroke-width="2" stroke-linecap="round"/>
+<path d="M271 216Q254 228 244 220M305 216Q323 229 335 217" fill="none" stroke="#f7e8cb" stroke-width="4" stroke-linecap="round"/>
+</g>
+<!-- hands reaching to coffee -->
+<path d="M63 360L113 277Q119 264 137 259L185 230Q199 225 203 238Q206 246 195 253L166 274L205 267Q221 267 220 280Q219 290 200 297L159 314L142 360Z" fill="#f6d9bf" stroke="#cba68d" stroke-width="2"/>
+<path d="M62 340L136 360H42Z" fill="#96b4c5"/><path d="M60 333L144 354L139 370L53 350Z" fill="#fbfaf1" stroke="#d8ddd6" stroke-width="2"/>
+<path d="M600 297L515 264Q497 258 491 239L470 192Q469 179 480 178Q489 177 496 193L507 218L511 180Q514 168 524 173Q531 177 529 192L530 235L600 253Z" fill="#f6d9bf" stroke="#cba68d" stroke-width="2"/>
+<path d="M561 239L546 286L600 306V250Z" fill="#456278"/><path d="M553 237L570 242L554 292L538 286Z" fill="#faf9ee" stroke="#d5ded9" stroke-width="2"/>
+<!-- corner biscotti plate -->
+<ellipse cx="76" cy="76" rx="77" ry="63" fill="#e3e8dc" stroke="#c2cabb" stroke-width="2"/>
+<path d="M25 64Q38 45 99 40Q117 46 110 62L42 84Q25 81 25 64Z" fill="#c99b61" stroke="#b48c54" stroke-width="2"/>
+<path d="M46 91Q53 74 115 66Q132 73 125 89L62 108Q44 106 46 91Z" fill="#d5ac75" stroke="#b48c54" stroke-width="2"/>
+<g fill="#8e6e46"><ellipse cx="49" cy="63" rx="4" ry="3"/><ellipse cx="74" cy="56" rx="3" ry="4"/><ellipse cx="95" cy="52" rx="4" ry="3"/><ellipse cx="73" cy="92" rx="4" ry="3"/><ellipse cx="98" cy="81" rx="3" ry="4"/></g>
+<!-- plant corner -->
+<g fill="#8ea186" stroke="#788f75" stroke-width="1"><ellipse cx="535" cy="27" rx="14" ry="37" transform="rotate(45 535 27)"/><ellipse cx="579" cy="58" rx="14" ry="39" transform="rotate(40 579 58)"/><ellipse cx="576" cy="-4" rx="14" ry="35" transform="rotate(-20 576 -4)"/></g>
+<path d="M600 0L527 83M561 44L536 21M574 29L580 65" fill="none" stroke="#83987a" stroke-width="3"/>
+</svg>

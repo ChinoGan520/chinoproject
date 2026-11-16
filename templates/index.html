@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#89c3eb" />
+    <meta
+      name="description"
+      content="Rabbit House 智乃親衛隊 — 用一杯咖啡的溫柔，收藏每一天的喜歡。香風智乃非官方粉絲應援社群。"
+    />
+    <title>Rabbit House · 智乃親衛隊</title>
+    <link rel="icon" href="/static/favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="/static/style.css" />
+    <script src="/static/app.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main">跳至主要內容</a>
+    <aside class="sidebar" id="sidebar">
+      <button
+        class="sidebar-close icon-button mobile-only"
+        aria-label="關閉導覽"
+        id="sidebar-close"
+      >
+        ×
+      </button>
+      <a class="brand" href="/" aria-label="Rabbit House 首頁"
+        ><span class="brand-mark" id="brand-mark"></span
+        ><span>Rabbit House<small>智乃親衛隊 · FAN CLUB</small></span></a
+      >
+      <div class="sidebar-label">OUR LITTLE WORLD</div>
+      <nav id="navigation" aria-label="主要導覽"></nav>
+      <div class="sidebar-note">
+        <span class="little-star">✧</span>
+        <p>
+          一杯咖啡，一份心意。<br />今天也一起守護<br />屬於我們的小小日常。
+        </p>
+        <span class="note-line"></span><small>EST. 2026 · WITH LOVE</small>
+      </div>
+      <div class="sidebar-bottom">
+        <a href="/ranks" class="subtle-link" data-route
+          ><span id="help-icon"></span> 親衛隊入門指南 <span>↗</span></a
+        >
+        <p>非官方粉絲社群<br />Unofficial fan community</p>
+      </div>
+    </aside>
+    <div class="page-shell">
+      <header class="topbar">
+        <div class="topbar-left">
+          <button
+            id="menu-toggle"
+            class="icon-button mobile-only"
+            aria-label="開啟導覽"
+            aria-expanded="false"
+          ></button
+          ><span class="breadcrumb"
+            >Rabbit House <span>/</span>
+            <b id="breadcrumb-current">應援總覽</b></span
+          >
+        </div>
+        <div class="topbar-actions">
+          <button
+            class="search-trigger"
+            id="search-trigger"
+            aria-label="搜尋活動與討論"
+          ></button
+          ><span class="topbar-divider"></span
+          ><button
+            class="notification-button icon-button"
+            id="notification-trigger"
+            aria-label="查看司令部公告"
+          ></button>
+          <div id="header-user"></div>
+        </div>
+      </header>
+      <main id="main" tabindex="-1">
+        <div class="loading-state">
+          <div class="loading-cup">☕</div>
+          <p>正在為你準備一杯咖啡…</p>
+        </div>
+      </main>
+      <footer class="footer">
+        <span>© 2026 Rabbit House 智乃親衛隊</span
+        ><span>為喜歡的事，投入一點溫柔。 <b>♡</b></span
+        ><a
+          href="https://github.com/ChinoGan520/chinoproject"
+          target="_blank"
+          rel="noopener noreferrer"
+          >GitHub ↗</a
+        >
+      </footer>
+    </div>
+    <div class="modal-backdrop" id="modal-backdrop" hidden>
+      <section
+        class="modal"
+        id="modal"
+        role="dialog"
+        aria-modal="true"
+        aria-labelledby="modal-title"
+        tabindex="-1"
+      ></section>
+    </div>
+    <div
+      class="toast-region"
+      id="toast-region"
+      role="status"
+      aria-live="polite"
+    ></div>
+    <noscript
+      ><p class="noscript">
+        請啟用 JavaScript 以瀏覽會員社群與互動功能。
+      </p></noscript
+    >
+  </body>
+</html>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="360" viewBox="0 0 600 360" role="img" aria-labelledby="t"><title id="t">兔兔二創繪圖的畫冊與彩色畫具</title>
+<defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#e8e4ef"/><stop offset="1" stop-color="#d7dbe9"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="7" stdDeviation="6" flood-color="#70748e" flood-opacity=".14"/></filter></defs>
+<rect width="600" height="360" fill="url(#b)"/>
+<path d="M0 280Q150 245 300 282T600 265V360H0Z" fill="#d4d6df" opacity=".5"/>
+<circle cx="295" cy="169" r="149" fill="#f5f1f5" opacity=".55"/>
+<!-- postcard behind -->
+<g transform="rotate(12 380 172)" filter="url(#s)"><rect x="277" y="57" width="205" height="245" rx="4" fill="#fffdf4"/><rect x="291" y="70" width="177" height="178" fill="#c8dce8"/><path d="M292 185Q336 155 373 187T467 174V248H292Z" fill="#a7bdab"/><path d="M318 247V145L370 109L423 145V247Z" fill="#f1e5cd"/><path d="M306 149L370 100L436 149" fill="none" stroke="#9c9fa5" stroke-width="10" stroke-linejoin="round"/><path d="M346 247V197Q370 176 394 197V247Z" fill="#a0b5ba"/><rect x="335" y="157" width="22" height="25" fill="#95b9cd"/><rect x="383" y="157" width="22" height="25" fill="#95b9cd"/><path d="M343 272H417" stroke="#c4b7a5" stroke-width="4" stroke-linecap="round"/></g>
+<!-- sketchpad -->
+<g transform="rotate(-12 260 188)" filter="url(#s)"><rect x="139" y="41" width="237" height="281" rx="7" fill="#718ca3"/><rect x="149" y="42" width="217" height="268" rx="3" fill="#fffdf3"/>
+<path d="M163 81H350M163 283H350" stroke="#e4e5dc" stroke-width="1"/>
+<g fill="none" stroke="#889ca8" stroke-width="3"><path d="M166 35V54M190 35V54M214 35V54M238 35V54M262 35V54M286 35V54M310 35V54M334 35V54M358 35V54"/></g>
+<!-- a little blue haired character sketch -->
+<path d="M194 155Q185 104 251 99Q317 96 325 160L331 245H186Z" fill="#d0dfef" stroke="#92abc4" stroke-width="2"/>
+<path d="M197 151Q204 113 255 116Q302 118 315 155L308 185Q284 218 256 215Q218 207 203 183Z" fill="#fff0e3" stroke="#cbb7ad" stroke-width="1.5"/>
+<path d="M193 153Q192 99 252 99Q316 96 324 160L305 150L295 131L287 156L267 128L247 157L238 133L221 162L217 140L197 169Z" fill="#c6d8ed" stroke="#92abc4" stroke-width="2"/>
+<ellipse cx="230" cy="175" rx="9" ry="13" fill="#6e95b9"/><ellipse cx="280" cy="175" rx="9" ry="13" fill="#6e95b9"/><ellipse cx="227" cy="171" rx="3" ry="4" fill="#fff"/><ellipse cx="277" cy="171" rx="3" ry="4" fill="#fff"/>
+<path d="M218 164Q230 155 242 164M268 164Q280 155 292 164" fill="none" stroke="#5f748c" stroke-width="2"/>
+<path d="M249 195Q255 200 263 194" fill="none" stroke="#bd9997" stroke-width="1.5" stroke-linecap="round"/>
+<ellipse cx="213" cy="188" rx="8" ry="4" fill="#eac1c0"/><ellipse cx="297" cy="188" rx="8" ry="4" fill="#eac1c0"/>
+<path d="M224 216L252 228L282 216Q312 220 319 261H195Q199 222 224 216Z" fill="#7897b0"/><path d="M228 213L251 229L235 240L219 221M279 213L255 229L270 240L289 221" fill="#fffdf3"/>
+<!-- tiny rabbit over hair -->
+<path d="M228 112Q216 89 224 83Q235 81 242 107M263 105Q269 81 278 85Q285 91 272 112" fill="#fffef4" stroke="#c5d0d4" stroke-width="1.5"/>
+<ellipse cx="251" cy="114" rx="31" ry="23" fill="#fffef4" stroke="#c5d0d4" stroke-width="1.5"/><circle cx="240" cy="113" r="2" fill="#6d7d85"/><circle cx="262" cy="113" r="2" fill="#6d7d85"/><path d="M247 120L251 123L255 120" fill="none" stroke="#b59e9d" stroke-width="1.5"/>
+<path d="M170 251L172 258L179 260L172 262L170 269L168 262L161 260L168 258M336 96L338 103L345 105L338 107L336 114L334 107L327 105L334 103" fill="#d7bd80"/>
+</g>
+<!-- pencils and wash brush -->
+<g transform="rotate(19 460 250)"><rect x="447" y="150" width="10" height="165" rx="3" fill="#83aabb"/><path d="M447 150L452 133L457 150Z" fill="#d6bd98"/><path d="M450 140L452 133L454 140Z" fill="#5e7380"/><rect x="447" y="302" width="10" height="13" rx="2" fill="#d5bdc6"/>
+<rect x="466" y="166" width="9" height="151" rx="2" fill="#c0a1b0"/><path d="M466 166L470 149L475 166Z" fill="#dfc7a2"/><path d="M468 156L470 149L472 156Z" fill="#695c6d"/></g>
+<g transform="rotate(-22 93 162)"><path d="M88 93H98V271Q93 283 88 271Z" fill="#c7a279"/><path d="M87 90H99V118H87Z" fill="#b1c3ca"/><path d="M87 91Q76 63 93 40Q109 64 99 91Z" fill="#7e8fa1"/><path d="M91 86Q87 66 94 51" fill="none" stroke="#a4b5bf" stroke-width="2"/></g>
+<path d="M477 77Q505 61 532 80L521 104L486 102Z" fill="#9ebaca"/><path d="M491 73Q469 57 465 69Q464 81 491 83M515 75Q520 48 532 56Q542 68 515 84" fill="none" stroke="#8caabf" stroke-width="4"/>
+<g fill="#fffdf6"><circle cx="79" cy="291" r="4"/><circle cx="527" cy="237" r="5"/><path d="M545 141L548 150L557 153L548 156L545 165L542 156L533 153L542 150Z"/></g>
+</svg>
