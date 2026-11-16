@@ -1,6 +1,8 @@
 # Illustration credits
 
-All SVG illustrations in this directory are original vector artwork created for this project. No official anime images, extracted animation frames, third-party fonts, or externally hosted images are included.
+The SVG illustrations in this directory are original vector artwork created for this project.
+
+The homepage image, `hero-festival.jpg`, is third-party *Is the Order a Rabbit?* character artwork depicting Cocoa and Chino in festival yukata. Source: https://anihonetwallpaper.com/image/2016/05/33710-Gochiusa-PC.jpg (wallpaper listing: https://anihonetwallpaper.com/pc%E5%A3%81%E7%B4%99/15696). Rights to this artwork remain with its respective rights holders.
 
 This is an unofficial, non-commercial fan tribute to Chino Kafū and Rabbit House from *Is the Order a Rabbit?* Character and series rights belong to their respective rights holders. The military-inspired insignia and fictional fan ranks are decorative community designs.
 
